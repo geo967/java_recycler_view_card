@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Handson100</string>
+    <string name="image_to_display">image to display</string>
+    <string name="hello">hello</string>
+</resources>
